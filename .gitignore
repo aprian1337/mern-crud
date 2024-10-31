@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directories
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# React specific
+public/static/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Testing
+*.test.js
+*.spec.js
+*.snap
+
+# Misc
+*.tgz
+*.gz
+*.zip
